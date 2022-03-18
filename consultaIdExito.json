@@ -1,0 +1,14 @@
+{
+  "transactionExtId":10,
+  "transactionIdpbx":123,
+	"token":"TokTik",
+	"tskId":"5628235681-2-1637079814"
+	"mdn":"5628235681",
+	"topupAmount":50,
+	"statusId":3,
+	"redeemedTime":"2022-01-01T14:44:58-06:00",
+	"code":1,
+	"messageCode":{"message":"todo ok"},
+  "authorizationCode":"99999",
+	"approvalCode":"33333"
+}
