@@ -1,14 +1,16 @@
 {
-  "transactionExtId":"10",
-  "transactionIdpbx":123,
-	"token":"TokTik",
-	"tskId":"5628235681-2-1637079814",
-	"mdn":"5628235681",
-	"topupAmount":50,
-	"statusId":3,
-	"redeemedTime":"2022-01-01T14:44:58-06:00",
-	"code":1,
-	"messageCode":{"message":"todo ok"},
-  "authorizationCode":"99999",
-	"approvalCode":"33333"
+    "transaction_id": 10,
+    "transaction_idpbx": 9999,
+    "token": "drs5AD89",
+    "tsk_id": "1111111111-1-57567157625",
+    "mdn": "11111111111",
+    "topup_amount": 50.0,
+    "status_id": 3,
+    "code": 1,
+    "message_code": "ok",
+    "authorization_code": "6546456464",
+    "approval_code": "76767667767",
+    "redeemed_time": "2022-03-22 16:11:59",
+    "creation_date": "2022-03-25 21:31:34",
+    "last_mod_date": "2022-03-25 21:31:34"
 }
