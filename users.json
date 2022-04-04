@@ -1,4 +1,5 @@
 {
   user:"Usuario",
-  acceso:"Uodsg45335fsS4SF"
+  acceso:"Uodsg45335fsS4SF",
+  urlRequest:"http://localhost:8080/paymentboxiot/pss/createPSSPayment"
 }
