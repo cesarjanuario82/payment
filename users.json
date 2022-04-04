@@ -1,5 +1,6 @@
 {
-  user:"Usuario",
-  acceso:"Uodsg45335fsS4SF",
-  urlRequest:"http://localhost:8080/paymentboxiot/pss/createPSSPayment"
+  "user":"Usuario",
+  "acceso":"Uodsg45335fsS4SF",
+  "urlRequest":"http://localhost:8080/paymentboxiot/pss/createPSSPayment",
+  "urlWebToken":"http://localhost:8080/paymentboxiot/pss/getTokenPPSS"
 }
