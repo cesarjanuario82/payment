@@ -1,0 +1,5 @@
+{
+    "enableButtonPayment": 1,
+    "paymentGatewayFlag": 0,
+    "tokenExists": 0
+}
