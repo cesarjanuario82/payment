@@ -2,5 +2,6 @@
   "user":"Usuario",
   "acceso":"Uodsg45335fsS4SF",
   "urlRequest":"http://localhost:8080/paymentboxiot/pss/createPSSPayment",
-  "urlWebToken":"http://localhost:8080/paymentboxiot/pss/getTokenPPSS"
+  "urlWebToken":"http://localhost:8080/paymentboxiot/pss/getTokenPPSS",
+  "channelId":18
 }
